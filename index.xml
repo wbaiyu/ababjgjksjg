@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>阿白的博客</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 阿白的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Feb 2021 20:12:40 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>基于Python和Pygame制作的小游戏</title>
+      <link>http://example.org/post/pygame1/</link>
+      <pubDate>Wed, 03 Feb 2021 20:12:40 +0800</pubDate>
+      
+      <guid>http://example.org/post/pygame1/</guid>
+      <description>这个游戏很有意思, 只用了Python来制作! 游戏看似简单， 小， 背后却有数不完的代码。 我做了这个游戏以后觉的挺高兴的， 很有成就感!
+游戏操作: 方向键控制玩家动作， 空格键发射子弹!
+全部代码: https://github.com/wbaiyu/ASpeicalGameWithTim
+作者: 阿白, Tim Ruscica 谢谢观看</description>
+    </item>
+    
+    <item>
+      <title>TestWeb</title>
+      <link>http://example.org/post/testweb/</link>
+      <pubDate>Wed, 03 Feb 2021 18:37:04 +0800</pubDate>
+      
+      <guid>http://example.org/post/testweb/</guid>
+      <description>这是我上线后第一篇文章 希望大家多多支持!! 博客正式上线!
+作者: 阿白</description>
+    </item>
+    
+    <item>
+      <title>阿神宣布退出B站前都说了什么?</title>
+      <link>http://example.org/post/blog/</link>
+      <pubDate>Wed, 03 Feb 2021 14:18:28 +0800</pubDate>
+      
+      <guid>http://example.org/post/blog/</guid>
+      <description>阿神宣布退出B站前都说了什么？帮你画下重点
+阿神事情在B站发酵了有一段时间了，个别人一直在带风向，歪曲事实，只把相对不利的一面拿出来说。
+在他们的打压下，阿神于3月底宣布退出了B站，为了平复一段时期以来“网暴”带来的伤害，他甚至已经卸载了B站。克制不去看那些留言。
+在退出B站之前他一直也在努力解释和致歉，这里把截图整理了一下。希望大家努力看完再留言，谢谢！
+2019年11月份，他已经感到B站的评论和弹幕开始【越来越不友善】，各种难听的话让他很难过。
+2月份的时候，他试图劝导粉丝们注意留言区和弹幕的气氛。希望大家能够配合！
+阿神的劝说并没有起到什么效果，少数人还是在留言区【为所欲为】，此时的他已经感到心寒！
+接下来的事情大家可能就知道了，就是有网友扒出阿神【七年前】的一条回复，阿神承认了这条留言，并在第一时间【解释和致歉】！
+【致歉】，【诚挚的道歉】短短的几行文字出现了两次道歉，那些追着让他道歉的人应该好好看一下。
+这是他宣布退出B站前的最后一条动态，离开B站也是无奈之举！他不希望别人盗用他的影片，只好交给经济公司代理搬运。
+到今天还是有少数人在各种场合歪曲事实，只把事情的【另一面】呈现给不知情的观众。
+这里我呼吁【真正的BOB】们，能够把这条动态【转发】出去，不是去掩饰，也不是少数人眼中的“洗白”，只想把事情完整的呈现给观众。让大家能够去独立的去认知和思想，不要被人【带风向】。</description>
+    </item>
+    
+  </channel>
+</rss>
